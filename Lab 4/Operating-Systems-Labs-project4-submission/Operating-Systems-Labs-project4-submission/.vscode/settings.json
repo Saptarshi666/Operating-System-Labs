@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.inc": "c",
+        "main.h": "c",
+        "syscall.h": "c",
+        "file.h": "c",
+        "directory.h": "c"
+    }
+}
